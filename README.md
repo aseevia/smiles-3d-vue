@@ -10,6 +10,7 @@ Some key features:
 * Written in [Vue.js](https://vuejs.org/) The Progressive JavaScript Framework.
 * Demonstrates interaction with [ChEMBL API](https://www.ebi.ac.uk/chembl/api/utils/docs).
 * Utilizes [Speck](http://wwwtyro.github.io/speck/) for 3D model rendering.
+* Has verification procedure and accepts only valid SMILES files.
 * Works great in all browsers including mobile! (Thanks to responsive web design)
 * Supports multiple files conversion and rendering.
 * Features drag-and-drop functionality.
