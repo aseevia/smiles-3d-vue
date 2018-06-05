@@ -1,6 +1,6 @@
 # smiles-3d-vue
 
-> 3D rendering of SMILES (Simplified molecular-input line-entry system) string
+> 3D rendering of SMILES (Simplified molecular-input line-entry system) files
 
 ## Build Setup
 
