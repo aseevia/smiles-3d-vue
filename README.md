@@ -21,6 +21,7 @@ Some key features:
 
 While the app has responsive design and adapts to any screen size from the smallest iphone to TV, the [Speck](http://wwwtyro.github.io/speck/) appears to have some WebGL shader issues which prevent rendering on mobile platforms. Tested both iOS and Android with no luck, it throws the follwing error:
 > Extension EXT _frag_depth not available
+
 If anyone knows how to fix this without re-writing Speck, please let me know.
 
 ## Build Setup
