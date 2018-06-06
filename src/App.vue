@@ -368,6 +368,9 @@ export default {
 
 <!-- SASS styling -->
 <style lang="scss">
+body {
+  margin: 0;
+}
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -419,6 +422,9 @@ export default {
   margin: 0 auto;
   overflow: auto;
   text-align: left;
+  border: 2px solid grey;
+  margin-bottom: 10px;
+  margin-top: 5px;
 }
 
 .list-unstyled {
