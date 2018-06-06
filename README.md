@@ -17,6 +17,10 @@ Some key features:
 * Uses SASS/SCSS for styling. 
 * Has thoroughly commented code.
 
+## DEMO
+
+Thanks to [GitHub pages](https://pages.github.com/), live demo is available [HERE](https://aseevia.github.io/smiles-3d-vue/).
+
 ## Mobile browser issues
 
 While the app has responsive design and adapts to any screen size from the smallest iphone to TV, the [Speck](http://wwwtyro.github.io/speck/) appears to have some WebGL shader issues which prevent rendering on mobile platforms. Tested both iOS and Android with no luck, it throws the follwing error:
